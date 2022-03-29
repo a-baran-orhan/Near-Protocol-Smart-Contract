@@ -1,5 +1,9 @@
 # `near-sdk-as` Starter Kit
 https://user-images.githubusercontent.com/78223231/160723426-1e2feda7-83ea-4897-ae9b-a01495b9349a.png
+
+www.patika.dev 
+
+
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
